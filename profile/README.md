@@ -56,3 +56,6 @@ As a functional, black-box system, ToolShed enables renters to search for tools,
 ToolShed is conceptually similar to other rental marketplaces (e.g., Fat Llama), but it differentiates itself through its emphasis on simplicity, a structured owner/renter workflow, and a more focused domain (tool sharing). The system is designed to be extendable to additional categories in the future without significant restructuring.
 
 The requirements were gathered by analyzing typical rental use cases, mapping business needs to user stories, and prioritizing features that support the essential epics: item discovery, booking & scheduling, item management, platform admin operations, and basic user management. The backlog reflects these priorities, ensuring a clear path for delivering a minimal yet functional and testable MVP.
+
+# Architecture
+<img width="1600" height="1222" alt="image" src="https://github.com/user-attachments/assets/83a78b41-5ed9-41a1-abbe-93c665a5d446" />
